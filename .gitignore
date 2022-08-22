@@ -11,6 +11,7 @@ cabal.sandbox.config
 .HTF/
 .ghc.environment.*
 *.o
+*.pdf
 *.hi
 *.hie
 *.chi
